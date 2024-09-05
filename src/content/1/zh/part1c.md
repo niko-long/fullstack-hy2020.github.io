@@ -212,7 +212,7 @@ export default App
 ```
 
 <!-- And file <i>index.js</i> becomes:-->
- 而文件<i>index.js</i>变成了:
+ 而文件<i>main.js</i>变成了:
 
 ```js
 import React from 'react'
