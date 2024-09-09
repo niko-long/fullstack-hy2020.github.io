@@ -280,8 +280,8 @@ setInterval(() => {
 <!-- Next, let's add state to our application's <i>App</i> component with the help of React's [state hook](https://reactjs.org/docs/hooks-state.html).-->
 接下来，让我们在React的[状态钩子](https://reactjs.org/docs/hooks-state.html)的帮助下，给我们的应用的<i>App</i>组件添加状态。
 
-<!-- We will change the application as follows.  <i>index.js</i> goes back to-->
- 我们将改变应用的内容如下。  <i>index.js</i>返回到
+<!-- We will change the application as follows.  <i>main.js</i> goes back to-->
+ 我们将改变应用的内容如下。  <i>main.js</i>返回到
 
 ```js
 import React from 'react'
